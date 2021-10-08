@@ -1,6 +1,6 @@
 # IdentityFarmActivities
-This is an ASP.NET Core project that uses ASP.NET Core default Identity. In the application multiple users can register/login and  fill a form with
-farm activities. I created the project ussing the command line. The workflow from creating the project upto running the application can be seen in .'projects'
+This is an ASP.NET Core application created using a project template that includes Identity futures. In the application multiple users can register/login and fill a form with
+farm activities.  The workflow from creating the project upto running the application can be seen in .'projects'
 
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 

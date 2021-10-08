@@ -9,6 +9,6 @@ namespace IdentityFarmActivities.Data
             : base(options)
         {
         }
-        public DbSet<ActivityName> TodoItems { get; set; }
+        public DbSet<Activity> Activities { get; set; }
     }
 }

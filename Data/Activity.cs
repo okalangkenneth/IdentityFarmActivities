@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace IdentityFarmActivities.Data
+﻿namespace IdentityFarmActivities.Data
 {
-    public class ActivityName
+    public class Activity
     {
         public long Id { get; set; }
         public string Task { get; set; }

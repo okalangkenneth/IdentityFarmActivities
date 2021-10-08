@@ -22,7 +22,7 @@ farm activities.  The workflow from creating the project upto running the applic
 ## Screenshots
 ![Screenshot (12)](https://user-images.githubusercontent.com/68539411/136594257-a88b97ca-7c39-4040-84ce-a901b5e72a48.png)
 
-The Identity UI has aother portal as shown below which can be adopted to suit the needs of the project.
+The Identity UI portal as shown below can be adopted to suit the needs of the project.
 ![Screenshot (13)](https://user-images.githubusercontent.com/68539411/136595677-7aba8929-9765-4822-b648-28a8b37f0e10.png)
 
 

@@ -7,6 +7,10 @@ using System.Linq;
 using System.Threading.Tasks;
 
 
+/// <summary>
+/// This defines the activity futures that are displayed in Index.html 
+/// </summary>
+
 namespace IdentityFarmActivities.Pages
 {
     [Authorize]
@@ -34,11 +38,11 @@ namespace IdentityFarmActivities.Pages
         {
             return RedirectToPage(new { ShowComplete });
         }
-        public async Task<IActionResult> OnPostAddItemAsync(string task)
+        public async Task<IActionResult> OnPostAddActivityAsync(string task)
         {
             if (!string.IsNullOrEmpty(task))
             {
-                Activity activity = new Activity
+                Activity activity = new()
                 {
                     Task = task,
                     Owner = User.Identity.Name,
@@ -49,7 +53,7 @@ namespace IdentityFarmActivities.Pages
             }
             return RedirectToPage(new { ShowComplete });
         }
-        public async Task<IActionResult> OnPostMarkItemAsync(long id)
+        public async Task<IActionResult> OnPostMarkActivityAsync(long id)
         {
             Activity activity = Context.Activities.Find(id);
             if (activity != null)

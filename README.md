@@ -13,11 +13,11 @@ farm activities. I created the project ussing the command line. The workflow fro
 
 ## Technologies Used
 - Visual Studio - 2019
-- ASP.NET MVC 5 
-- Bootstrap
-- Jquery
-- Knockout
-- Javascript
+- ASP.NET Core Identity 
+- Razor Pages
+
+
+
 
 ## Screenshots
 ![Screenshot (11)](https://user-images.githubusercontent.com/68539411/136467462-6e9c7c56-9f98-4df6-a629-8efbff23ae7d.png)

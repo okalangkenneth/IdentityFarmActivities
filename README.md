@@ -2,7 +2,7 @@
 This is an ASP.NET Core application created using a project template that includes Identity futures. In the application multiple users can register/login and fill a form with
 farm activities.  The workflow from creating the project upto running the application can be seen under'projects'
 
-> Live demo [_here_](https://okalangkenneth.github.io/IdentityFarmActivities/Pages/index.cshtml). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://github.com/okalangkenneth/IdentityFarmActivities/blob/master/Pages/Index.cshtml). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
